@@ -22,6 +22,6 @@ Install my-project with npm
 Reactjs V18.2.0
 
 #### CSS framework
-tailwindcs V3.1.8
+tailwind V3.1.8
 
 
